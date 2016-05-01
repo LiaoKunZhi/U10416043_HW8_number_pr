@@ -3,7 +3,7 @@
 import java.math.*;
 
 //Class
-public class NumberPr{
+public class NumberPr {
 
 	//Data field
 	BigDecimal npr1;
